@@ -1,4 +1,5 @@
-import { Actions, Todo } from "./components"
+// import Actions from "./components/Actions"
+import Todo from "./components/Todo"
 
 const App = () => {
   return (
